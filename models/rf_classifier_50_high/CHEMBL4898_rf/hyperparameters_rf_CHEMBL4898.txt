@@ -1,0 +1,9 @@
+RandomForestClassifier(bootstrap=False, ccp_alpha=0.0,
+                       class_weight='balanced_subsample', criterion='entropy',
+                       max_depth=10, max_features=0.8190898093914053,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=3.59554701496318e-07,
+                       min_impurity_split=None, min_samples_leaf=4,
+                       min_samples_split=8, min_weight_fraction_leaf=0.0,
+                       n_estimators=156, n_jobs=-1, oob_score=False,
+                       random_state=42, verbose=0, warm_start=False)

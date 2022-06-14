@@ -1,0 +1,32 @@
+Model,Accuracy,AUC,Recall,Prec.,F1,Kappa,MCC,ChemblID,prot_name,mol_number
+Random Forest Classifier,0.8878,0.9517,0.9778,0.8148,0.8889,0.7774,0.7906,CHEMBL4247,ALK tyrosine kinase receptor,1960
+Random Forest Classifier,1.0,0.0,0.0,0.0,0.0,,0.0,CHEMBL5627,Leukocyte tyrosine kinase receptor,32
+Random Forest Classifier,0.8033,0.8885,0.75,0.5526,0.6364,0.5057,0.5168,CHEMBL4895,Tyrosine-protein kinase receptor UFO,606
+Random Forest Classifier,0.7969,0.8841,0.76,0.7308,0.7451,0.5764,0.5767,CHEMBL5331,Proto-oncogene tyrosine-protein kinase MER,320
+Random Forest Classifier,0.7808,0.8498,0.4118,0.5385,0.4667,0.3318,0.3365,CHEMBL5314,Tyrosine-protein kinase receptor TYRO3,365
+Random Forest Classifier,0.6667,0.7854,0.75,0.4286,0.5455,0.3119,0.3425,CHEMBL5319,Epithelial discoidin domain-containing receptor 1,224
+Random Forest Classifier,0.8077,0.8652,0.6667,0.75,0.7059,0.5638,0.5659,CHEMBL5122,Discoidin domain-containing receptor 2,256
+Random Forest Classifier,0.8941,0.9489,0.8263,0.8309,0.8286,0.752,0.752,CHEMBL203,Epidermal growth factor receptor erbB1,8830
+Random Forest Classifier,0.8718,0.9286,0.75,0.75,0.75,0.6638,0.6638,CHEMBL1824,Receptor protein-tyrosine kinase erbB-2,2575
+Random Forest Classifier,0.8182,0.9333,0.8,0.8,0.8,0.6333,0.6333,CHEMBL5838,Receptor tyrosine-protein kinase erbB-3,52
+Random Forest Classifier,0.7451,0.8727,0.5652,0.8125,0.6667,0.4709,0.4912,CHEMBL3009,Receptor protein-tyrosine kinase erbB-4,253
+Random Forest Classifier,0.8759,0.9527,0.8502,0.8867,0.8681,0.751,0.7516,CHEMBL3650,Fibroblast growth factor receptor 1,2780
+Random Forest Classifier,0.9005,0.9354,0.943,0.9198,0.9312,0.751,0.7518,CHEMBL4142,Fibroblast growth factor receptor 2,1102
+Random Forest Classifier,0.8279,0.8804,0.7943,0.8235,0.8087,0.6524,0.6528,CHEMBL2742,Fibroblast growth factor receptor 3,1538
+Random Forest Classifier,0.7731,0.8641,0.7959,0.8298,0.8125,0.5256,0.5263,CHEMBL3973,Fibroblast growth factor receptor 4,1187
+Random Forest Classifier,0.9509,0.8387,0.2353,1.0,0.381,0.3654,0.4728,CHEMBL1981,Insulin receptor,1325
+Random Forest Classifier,0.865,0.9308,0.8008,0.8552,0.8271,0.7165,0.7176,CHEMBL1957,Insulin-like growth factor I receptor,2925
+Random Forest Classifier,0.8286,0.9043,0.8123,0.8123,0.8123,0.6547,0.6547,CHEMBL3717,Hepatocyte growth factor receptor,3734
+Random Forest Classifier,0.8378,0.9202,0.8944,0.8214,0.8564,0.6709,0.6742,CHEMBL1844,Macrophage colony stimulating factor receptor,1661
+Random Forest Classifier,0.8414,0.9218,0.7759,0.7068,0.7397,0.626,0.6274,CHEMBL1974,Tyrosine-protein kinase receptor FLT3,2994
+Random Forest Classifier,0.7966,0.8559,0.6923,0.6923,0.6923,0.5404,0.5404,CHEMBL2007,Platelet-derived growth factor receptor alpha,586
+Random Forest Classifier,0.896,0.9414,0.7159,0.875,0.7875,0.7196,0.7259,CHEMBL1913,Platelet-derived growth factor receptor beta,1632
+Random Forest Classifier,0.9068,0.9609,0.8494,0.94,0.8924,0.8106,0.8139,CHEMBL1862,Tyrosine-protein kinase ABL,1824
+Random Forest Classifier,0.8301,0.8645,0.5111,0.8519,0.6389,0.5367,0.5666,CHEMBL2041,Tyrosine-protein kinase receptor RET,764
+Random Forest Classifier,0.9318,0.925,0.9,0.9474,0.9231,0.8619,0.8628,CHEMBL5568,Proto-oncogene tyrosine-protein kinase ROS,217
+Random Forest Classifier,0.8356,0.9085,0.7944,0.8539,0.8231,0.6699,0.6714,CHEMBL2815,Nerve growth factor receptor Trk-A,2976
+Random Forest Classifier,0.7356,0.8185,0.8684,0.6471,0.7416,0.4825,0.5046,CHEMBL4898,Neurotrophic tyrosine kinase receptor type 2,435
+Random Forest Classifier,0.7826,0.9048,0.9,0.6923,0.7826,0.5725,0.5923,CHEMBL5608,NT-3 growth factor receptor,226
+Random Forest Classifier,0.9118,0.9621,0.6383,0.8824,0.7407,0.6892,0.7023,CHEMBL1868,Vascular endothelial growth factor receptor 1,1188
+Random Forest Classifier,0.8799,0.9326,0.7337,0.8605,0.792,0.7084,0.7128,CHEMBL279,Vascular endothelial growth factor receptor 2,9573
+Random Forest Classifier,0.7609,0.8154,0.725,0.725,0.725,0.5135,0.5135,CHEMBL1955,Vascular endothelial growth factor receptor 3,458

@@ -1,0 +1,9 @@
+RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight={},
+                       criterion='gini', max_depth=11,
+                       max_features=0.4902908903451116, max_leaf_nodes=None,
+                       max_samples=None,
+                       min_impurity_decrease=2.043734653811021e-05,
+                       min_impurity_split=None, min_samples_leaf=4,
+                       min_samples_split=5, min_weight_fraction_leaf=0.0,
+                       n_estimators=89, n_jobs=-1, oob_score=False,
+                       random_state=42, verbose=0, warm_start=False)
